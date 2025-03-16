@@ -1,7 +1,7 @@
 # mp3-tagging-script
 Bash script to update metadata for MP3 files.
 
-Manually tagging music for local files is very annoying so I made this script.
+Manually tagging music for local files is very tedious so I made this script to quickly create and edit metadata in the command line.
 Intended for single MP3 files. When the time comes, I will make a script to tag entire albums.
 
 Dependencies: Requires the ID3v2 CLI tool for modifying MP3 metadata
